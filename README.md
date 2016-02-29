@@ -16,6 +16,10 @@
 - [Git Commit 該怎麼寫？](http://chris.beams.io/posts/git-commit/)
 
 	國外有人寫了一篇如何撰寫 Git commit 的良好規範。
+	
+- [Git 常見工作流程](https://www.atlassian.com/git/tutorials/comparing-workflows/centralized-workflow)
+
+	個人比較喜歡 fork 的工作流程，其次則是 gitflow，當然還是依照每個團隊大多數人的習慣去選擇或改變。
 
 ## 系列教學文章/網站
 - [try git](https://try.github.io/levels/1/challenges/1)
