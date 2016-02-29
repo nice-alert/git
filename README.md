@@ -8,6 +8,10 @@
 - Git 總整理 (出處已不可考)
 ![git api 總整理](img/git-api.png)
 
+- [GitHub dotfile](https://dotfiles.github.io/)
+
+	許多知名開發者把自己的環境設定放在上面，也包含 gitconfig
+
 ## 系列教學文章/網站
 - [try git](https://try.github.io/levels/1/challenges/1)
 
@@ -28,7 +32,6 @@
 [gitcafe](https://gitcafe.com/?locale=zh-TW)|
 
 ## 常用指令
-
 ### 基本
 指令名稱|用途
 -------|---
