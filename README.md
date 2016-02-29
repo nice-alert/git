@@ -10,8 +10,12 @@
 
 ## 系列教學文章/網站
 - [try git](https://try.github.io/levels/1/challenges/1)
+
 	Code School 做的一套 git 線上互訂學習的課程，這部分是免費的會一直教到 github 帳號整合。
+
 - [連猴子都能懂的 Git 入門教學](https://backlogtool.com/git-guide/tw/)
+
+	號稱連猴子都能看到的 git 入門教學
 
 
 ## Git 平台
@@ -22,6 +26,34 @@
 [gitlab](https://about.gitlab.com/)|自己架設 git server 可以使用這一套。
 [貝格樂](https://backlogtool.com/git-guide/tw/)|
 [gitcafe](https://gitcafe.com/?locale=zh-TW)|
+
+## 常用指令
+
+### 基本
+指令名稱|用途
+-------|---
+add|
+commit|
+push|
+pull|
+clone|
+status|
+
+### 進階
+指令名稱|用途
+-------|---
+checkout|
+push|
+pull|
+clone|
+rebase|
+remote|
+reset|
+stash|
+log|
+diff|
+tag|
+
 
 
 
