@@ -6,7 +6,7 @@
 
 ## 好文推薦
 - Git 總整理 (出處已不可考)
-![git api 總整理](img/git-api.png)
+[Git api 總整理](img/git-api.png)
 
 - [GitHub dotfile](https://dotfiles.github.io/)
 
@@ -19,8 +19,11 @@
 
 - [連猴子都能懂的 Git 入門教學](https://backlogtool.com/git-guide/tw/)
 
-	號稱連猴子都能看到的 git 入門教學
+	號稱連猴子都能看到的 git 入門教學。
 
+- [版本控系統](https://ihower.tw/git/)
+
+	由台灣知名開發者 ihower 寫的系列 git 教材，也有很多分享過的投影片，想要了解 git 工作原理這幾篇不能錯過。
 
 ## Git 平台
 網站名稱|簡介
@@ -52,10 +55,13 @@ clone|
 rebase|
 remote|
 reset|
+revert|
 stash|
 log|
 diff|
 tag|
+branch|
+git ls-files|
 
 
 
