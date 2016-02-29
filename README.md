@@ -30,6 +30,20 @@
 
 	由台灣知名開發者 ihower 寫的系列 git 教材，也有很多分享過的投影片，想要了解 git 工作原理這幾篇不能錯過。
 
+
+## GUI
+軟體名稱|簡介|支援平台
+------|---|---------
+[Github Desktop](https://desktop.github.com/)|Github 製作的一套簡單可以操作 git 的 GUI|Windows, Mac
+[Source Tree](https://www.sourcetreeapp.com/)|非常多人推薦的 Git GUI|Mac
+[Git Bash](https://git-for-windows.github.io/)|早時候沒有上面幾套軟體，在 windows 下面想要玩 git 都會選擇它|Windows, Mac
+
+## Tool
+名稱|功能
+----|----
+[gitignore](https://www.gitignore.io/)| 產生大多數程式所需要用到的 git ignore 檔案
+
+
 ## Git 平台
 網站名稱|簡介
 -------|--------
