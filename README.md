@@ -5,12 +5,17 @@
 
 
 ## 好文推薦
-- Git 總整理 (出處已不可考)
-[Git api 總整理](img/git-api.png)
+- [Git api 總整理](img/git-api.png)
+
+	大陸做的一張完整 git 大多數指令詳解的圖。
 
 - [GitHub dotfile](https://dotfiles.github.io/)
 
-	許多知名開發者把自己的環境設定放在上面，也包含 gitconfig
+	許多知名開發者把自己的環境設定放在上面，也包含 gitconfig.
+	
+- [Git Commit 該怎麼寫？](http://chris.beams.io/posts/git-commit/)
+
+	國外有人寫了一篇如何撰寫 Git commit 的良好規範。
 
 ## 系列教學文章/網站
 - [try git](https://try.github.io/levels/1/challenges/1)
