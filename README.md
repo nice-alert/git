@@ -12,11 +12,11 @@
 - [GitHub dotfile](https://dotfiles.github.io/)
 
 	許多知名開發者把自己的環境設定放在上面，也包含 gitconfig.
-	
+
 - [Git Commit 該怎麼寫？](http://chris.beams.io/posts/git-commit/)
 
 	國外有人寫了一篇如何撰寫 Git commit 的良好規範。
-	
+
 - [Git 常見工作流程](https://www.atlassian.com/git/tutorials/comparing-workflows/centralized-workflow)
 
 	個人比較喜歡 fork 的工作流程，其次則是 gitflow，當然還是依照每個團隊大多數人的習慣去選擇或改變。
@@ -34,6 +34,9 @@
 
 	由台灣知名開發者 ihower 寫的系列 git 教材，也有很多分享過的投影片，想要了解 git 工作原理這幾篇不能錯過。
 
+- [30 天精通 Git 版本控管](https://github.com/doggy8088/Learn-Git-in-30-days)
+
+	由保哥所寫的三十天精通 git 開發，如果想要看繁體中文的話大推這篇，輕鬆學會基本的 git 操作方式。
 
 ## GUI
 軟體名稱|簡介|支援平台
