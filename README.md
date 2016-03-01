@@ -40,7 +40,9 @@
 ------|---|---------
 [Github Desktop](https://desktop.github.com/)|Github 製作的一套簡單可以操作 git 的 GUI|Windows, Mac
 [Source Tree](https://www.sourcetreeapp.com/)|非常多人推薦的 Git GUI|Mac
+[tortoisegit](https://tortoisegit.org/)|許多 Windwos 開發者推薦的一套|Windows
 [Git Bash](https://git-for-windows.github.io/)|早時候沒有上面幾套軟體，在 windows 下面想要玩 git 都會選擇它|Windows, Mac
+
 
 ## Tool
 名稱|功能
