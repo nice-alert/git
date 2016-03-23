@@ -21,6 +21,10 @@
 
 	個人比較喜歡 fork 的工作流程，其次則是 gitflow，當然還是依照每個團隊大多數人的習慣去選擇或改變。
 
+- [AngularJS Git Commit Message Conventions](https://docs.google.com/document/d/1QrDFcIiPjSLDn3EL15IJygNPiHORgU1_OOAqWjiDU5Y/edit#)
+
+	看看 AngualarJS 的 commit 規則
+
 ## 系列教學文章/網站
 - [try git](https://try.github.io/levels/1/challenges/1)
 
@@ -51,6 +55,7 @@
 名稱|功能
 ----|----
 [gitignore](https://www.gitignore.io/)| 產生大多數程式所需要用到的 git ignore 檔案
+[diff-so-fancy](https://github.com/so-fancy/diff-so-fancy)
 
 
 ## Git 平台
